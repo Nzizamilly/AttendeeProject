@@ -1,0 +1,1 @@
+const kei = 5;
